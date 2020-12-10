@@ -29,7 +29,7 @@ Outside of development, Leonardo enjoys sports, love meeting different people an
 <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/-C-181717?style=flat-square&logo=C" "height="25"/>
+<img src="https://img.shields.io/badge/181717?style=flat-square&logo=C" "height="25"/>
 
 </p>
 
