@@ -1,4 +1,3 @@
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=LeoFC97.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/LeoFC97?style=social)
 
 
