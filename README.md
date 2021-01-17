@@ -17,8 +17,6 @@ Leonardo Costa is a Backend web developer who loves JavaScript/Node and currentl
 Leo is at his last year of university, working towards a BA in Information Systems. He also has dabbled with a lot of diferent stakcs, such as C,  assembly develpoing duct inspection video robots, and nodeJs creating an API Rest. Currently, Leo lives in Niterói, Brazil. He is a very curious and driven person, and loves a challenge. 
 Outside of dev, Leo likes cycling, his cat and gaming.
 
-Outside of development, Leonardo enjoys sports, love meeting different people and cultures.
-
 ## 💻 Technologies & Tools
 
 <p align="center">
