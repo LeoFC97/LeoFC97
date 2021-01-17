@@ -10,11 +10,12 @@
 
 ## Bio - Hi, Coders! 👋
 
-Leonardo Costa is backend web developer who loves JavaScript/Node and works at Delivery Much. He loves helping and making contributions to Open Source projects in **[GitHub](https://github.com/leoFC97)**. 
+Leonardo Costa is a Backend web developer who loves JavaScript/Node and currently works at Delivery Much as a Backend Developer. He likes helping people and making contributions to Open Source projects in  **[GitHub](https://github.com/leoFC97)**. 
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-Leonardo is currently at his last year of collage, worked with a lot ot diferent stakcs such as C and assembly develpoing duct inspection video robots, and nodeJs creating API Rest. Currently, Leonardo lives in Niterói, Brazil. And his greatest passion is sharing knowledge for all people!
+Leo is at his last year of university, working towards a BA in Information Systems. He also has dabbled with a lot of diferent stakcs, such as C,  assembly develpoing duct inspection video robots, and nodeJs creating an API Rest. Currently, Leo lives in Niterói, Brazil. He is a very curious and driven person, and loves a challenge. 
+Outside of dev, Leo likes cycling, his cat and gaming.
 
 Outside of development, Leonardo enjoys sports, love meeting different people and cultures.
 
