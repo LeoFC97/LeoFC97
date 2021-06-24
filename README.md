@@ -13,7 +13,7 @@ Leonardo Costa is a Backend web developer who loves JavaScript/Node and currentl
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-Leo is at his last year of university, working towards a BA in Information Systems. He also has dabbled with a lot of diferent stakcs, such as C,  assembly develpoing duct inspection video robots, and nodeJs creating an API Rest. Currently, Leo lives in Niterói, Brazil. He is a very curious and driven person, and loves a challenge. 
+Leo is at his last year of university, working towards a BA in Information Systems. He also has dabbled with a lot of diferent stakcs, such as C, Java, Cpp and nodeJs. Currently, Leo lives in Campos Dos Goytacazes, Brazil. He is a very curious and driven person, and loves a challenge. 
 Outside of dev, Leo likes cycling, his cat and gaming.
 
 ## 💻 Technologies & Tools
